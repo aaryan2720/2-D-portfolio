@@ -1,0 +1,11 @@
+a person can learn quite a few valuable skills and concepts that are applicable to web development and game development. Here’s a summary of what one can learn:
+
+JavaScript Programming: The core language used in the tutorial, which is essential for web development and creating interactive web applications.
+Game Development Basics: Introduction to the principles of game design and development, even if it’s in a 2D space.
+Kaboom JS Library: How to use this JavaScript library to create games. It’s a practical way to learn how to implement game mechanics and interactivity.
+HTML & CSS: Although the focus is on JavaScript, HTML and CSS are used for structuring and styling the portfolio, which are foundational skills for web development.
+Responsive UI Design: Tips on making the user interface work well on both desktop and mobile devices.
+Development Environment Setup: Setting up Visual Studio Code, Node.js, and using Vite as a bundler.
+Project Configuration: Learning how to configure a project with modern tools and understanding the importance of performance optimization like minification.
+Sprite Animation: Loading sprites, defining animations, and using tools like Tiled for map creation.
+This tutorial is particularly useful for those looking to combine their web development skills with game development to create unique and interactive portfolio pieces. It’s a creative way to showcase one’s skills and background in a format that stands out from traditional web portfolios.
