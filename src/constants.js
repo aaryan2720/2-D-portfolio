@@ -11,10 +11,10 @@ export const dialogueData = {
    <a href="https://www.youtube.com/@freecodecamp" target="_blank">Freecodecamp.org</a>, <a href="https://www.youtube.com/@CodeWithHarry" target="_blank">code with harry</a>,
   <a href="https://www.youtube.com/@cs50" target="_blank">cs50</a> (sometimes)`,
   bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://1drv.ms/b/s!AgkG7OJDBbEtn8ApjunlQbyFaM0n_g?e=ubeuAW" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://www.canva.com/design/DAGJEVY57ao/Z_CqGjT2IrD8rQXgqU69-Q/edit?utm_content=DAGJEVY57ao&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Check it out?</a>
   Contact me at aryan12344choudhari1983@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS.I have done some projects on different  aspects of web development , python and different databases , and more over  I keep intrest in modern technology as LLMs,NLPs etc <a href="https://www.linkedin.com/in/aryan-choudhari-912bab1b1/" target="_blank">here</a>.`,
+  Text is rendered with HTML/CSS.I have done some projects on different  aspects of web development , python and different databases , and more over  I keep intrest in modern technology as LLMs,NLPs etc <a href="https://www.linkedin.com/in/aaryan-choudhari/" target="_blank">Check My Linkedin Profile</a>.`,
   library: `There are a lot of programming books on my shelves.
   I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit Aaryan's portfolio, just close the tab.`,
